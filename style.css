@@ -17,6 +17,10 @@
     border: 0px solid red;
     width: 100%;
 }
+#error{
+    color: orangered;
+    font-size: large;
+}
 
 /*popup*/
 .check{

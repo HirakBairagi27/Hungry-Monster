@@ -33,7 +33,7 @@ const showError = function(value){
                                 <div class="card" style="">
                                   <h1 class="card-text display-1 text-center">${value} not found!</h1>
                                   <div class="card-body bg-custom-gray">
-                                    <p class="card-text text-center">Try something else!</p>
+                                    <p id='error' class="card-text text-center">Sir, sorry this item not found. Please try something else!</p>
                                   </div>
                                 </div>
                             </div>
